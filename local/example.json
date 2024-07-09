@@ -1,0 +1,11 @@
+{
+  "codigoPedido": 101,
+  "codigoCliente": 2,
+  "itens": [
+    {
+      "produto": "lápis",
+      "quantidade": 30,
+      "preco": 1.20
+    }
+  ]
+}
